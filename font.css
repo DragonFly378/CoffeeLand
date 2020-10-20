@@ -1,0 +1,30 @@
+@font-face{
+    font-family:"beepo-bold";
+    src:url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Bold.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Bold.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Bold.otf") format("truetype");
+}
+@font-face{
+    font-family:"beepo-extra-bold";
+    src:url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraBold.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraBold.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraBold.otf") format("truetype");
+}
+@font-face{
+    font-family:"beepo-extralight";
+    src:url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraLight.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraLight.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-ExtraLight.otf") format("truetype");
+}
+@font-face{
+    font-family:"beepo-light";
+    src:url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Light.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Light.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Light.otf") format("truetype");
+}
+@font-face{
+    font-family:"beepo-regular";
+    src:url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Regular.otf") format("woff"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Regular.otf") format("opentype"),
+    url("https://dafonttop.com/wp-data/b/889/7889/file/Beepo-Regular.otf") format("truetype");
+}
